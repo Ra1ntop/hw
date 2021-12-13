@@ -1,0 +1,6 @@
+a = int(input("На скольких нужен столик"))
+print(a)
+b = input("")
+print(b)
+c = int(input("На сколько нужен стол?"))
+print(c)
